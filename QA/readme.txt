@@ -1,3 +1,6 @@
 
 $ uiautomatorviewer
 
+new git check
+
+
